@@ -52,17 +52,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> It is a project build with HTML and CSS according to linters standards.
 
-**[Hello Microverse Project]** is a...
+**[Hello Microverse Project]** is a trial educational project coursework of Microverse.
 
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+## 🛠 Built With HTML And CSS <a name="built-with"></a>
 
 <details>
   <summary>Client</summary>
