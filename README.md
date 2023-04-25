@@ -59,36 +59,15 @@ After you're finished please remove all the comments and instructions!
 
 ## 🛠 Built With HTML And CSS <a name="built-with"></a>
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Build with semantic HTML tags]**
+- **[CSS style is externally link with index.html file]**
+- **[.gitignore has been set up properly]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,9 +75,9 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> Check out this link : https://github.com/Rifat8080/Hello-Microverse-Project
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](https://github.com/Rifat8080/Hello-Microverse-Project)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
